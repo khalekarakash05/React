@@ -51,21 +51,21 @@ const DisplayTasks = ({ tasks, setTasks, setFormVisible, handleComplete, handleU
           <ul className='max-w-[550px]'>
             {tasks.map((task, index) => (
               <li key={index} className="mb-4">
-                {/* ... your task item rendering */}
+              
                 <div className="mb-2 flex text-lg md:text-xl">
-                  <strong className="text-lg font-bold mt-2">Notes:</strong>
+                  <strong className="text-lg font-bold">Notes:</strong>
                   <span className='mx-2 md:mx-4'>{task.notes}</span>
                 </div>
                 <div className="mb-2 flex text-lg md:text-xl">
-                  <strong className="text-lg font-bold mt-2">Sub Task 1:</strong>
+                  <strong className="text-lg font-bold ">Sub Task 1:</strong>
                   <span className='mx-2 md:mx-4'>{task.subnotes1}</span>
                 </div>
                 <div className="mb-2 flex text-lg md:text-xl">
-                  <strong className="text-lg font-bold mt-2">Sub Task 2:</strong>
+                  <strong className="text-lg font-bold ">Sub Task 2:</strong>
                   <span className='mx-2 md:mx-4'>{task.subnotes2}</span>
                 </div>
                 <div className="mb-2 flex text-lg md:text-xl">
-                  <strong className="text-lg font-bold mt-2">Completed:</strong>
+                  <strong className="text-lg font-bold ">Completed:</strong>
                   <span className='text-[20px] mx-2 md:mx-4'>{task.completed ? 'Yes' : 'No'}</span>
                 </div>
 
