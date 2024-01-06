@@ -36,8 +36,8 @@ To run the application, make sure you have Node.js installed on your computer. F
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo                                                                                                                                                                                                                    
+   git clone https://github.com/khalekarakash05/React.git
+   cd React                                                                                                                                                                                                                    
 Install dependencies:  npm install                                                                                                                                                                            Start the development server: npm run start
 
 
