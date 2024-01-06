@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React/static/css/main.8fa42216.css",
+    "main.js": "/React/static/js/main.b7e96de2.js",
+    "static/media/signup.png": "/React/static/media/signup.b431d919de01b6515dd6.png",
+    "static/media/login.png": "/React/static/media/login.4d877a447365e5137b67.png",
+    "static/media/Task.png": "/React/static/media/Task.de58d98743867e4ae38c.png",
+    "static/media/download.png": "/React/static/media/download.de1c9e93f1f4b6153893.png",
+    "static/media/about.jpg": "/React/static/media/about.e0f3796edc3d7986fc0d.jpg",
+    "static/media/frame.png": "/React/static/media/frame.3a238e5f26d676376e1d.png",
+    "index.html": "/React/index.html",
+    "main.8fa42216.css.map": "/React/static/css/main.8fa42216.css.map",
+    "main.b7e96de2.js.map": "/React/static/js/main.b7e96de2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fa42216.css",
+    "static/js/main.b7e96de2.js"
+  ]
+}
